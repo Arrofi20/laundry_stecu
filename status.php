@@ -1,5 +1,5 @@
 <?php
-include 'config.php';
+include 'confi.php';
 
 /* CREATE */
 if (isset($_POST['simpan'])) {
